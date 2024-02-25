@@ -18,7 +18,7 @@ Silakan buka petunjuk.txt apa yang perlu diubah sebelum di upload ke mikrotik.
 
 ## Cara Customisasi Template
 
-Anda dapat mengedit template-template di repository ini menggunakan editor teks favorit Anda. Untuk mengubah tampilan halaman login hotspot Mikrotik, Anda hanya perlu mengedit file HTML dan CSS.
+Anda dapat mengedit template di repository ini menggunakan editor teks favorit Anda. Untuk mengubah tampilan halaman login hotspot Mikrotik, Anda hanya perlu mengedit file HTML dan CSS.
 
 ## Kontribusi
 
