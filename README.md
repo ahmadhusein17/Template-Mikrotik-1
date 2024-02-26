@@ -1,10 +1,10 @@
 # Template Page Hotspot Mikrotik
 
-Repository ini berisi beberapa template login page hotspot Mikrotik yang dapat Anda gunakan untuk mengganti tampilan halaman login hotspot Mikrotik.
+Repository ini berisi template login page hotspot Mikrotik yang dapat Anda gunakan untuk mengganti tampilan halaman login hotspot Mikrotik.
 
 ## Template Edit
 
-Repository ini menyediakan beberapa template login page hotspot Mikrotik yang dapat Anda gunakan. 
+Repository ini menyediakan template login page hotspot Mikrotik yang dapat Anda gunakan. 
 Silakan buka petunjuk.txt apa yang perlu diubah sebelum di upload ke mikrotik.
 
 ## Cara Upload Template ke Mikrotik
